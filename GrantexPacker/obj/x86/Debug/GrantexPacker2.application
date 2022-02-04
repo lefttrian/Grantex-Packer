@@ -14,14 +14,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="GrantexPacker2.exe.manifest" size="11848">
+    <dependentAssembly dependencyType="install" codebase="GrantexPacker2.exe.manifest" size="10374">
       <assemblyIdentity name="GrantexPacker2.exe" version="2.0.0.38" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Nnw4u1c9l0Xtg4Rc5VD9i7aYdieBvCwf+lkDq15KTWM=</dsig:DigestValue>
+        <dsig:DigestValue>6hUgHJ30petj53Z+8dyACvZ4GGkCV/T7boIfe1X6XT4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
