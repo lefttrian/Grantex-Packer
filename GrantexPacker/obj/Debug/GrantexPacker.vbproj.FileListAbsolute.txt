@@ -1,0 +1,152 @@
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\GrantexPacker.exe.config
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.vbprojResolveAssemblyReference.cache
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form1.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form2.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form3.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form4.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form5.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form6.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form7.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Resources.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.pallettemplate.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.vbproj.GenerateResource.Cache
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\RdlCompile.cache
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\RdlCompile.compiled
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\GrantexPacker.exe.manifest
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\GrantexPacker.application
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\GrantexPacker.exe
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\GrantexPacker.pdb
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\GrantexPacker.xml
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.exe.manifest
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.application
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.exe
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.xml
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.pdb
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\GrantexPacker.exe.config
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.exe
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.xml
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.pdb
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\GrantexPacker.exe.manifest
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\GrantexPacker.application
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\GrantexPacker.exe
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\GrantexPacker.pdb
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\GrantexPacker.xml
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\BarcodeLib.Barcode.WinForms.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.vbprojResolveAssemblyReference.cache
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Form1.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Form10.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Form11.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Form12.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Form2.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Form3.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Form4.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Form5.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Form6.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Form7.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Form8.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Form9.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.Resources.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.pallettemplate.resources
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.vbproj.GenerateResource.Cache
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\RdlCompile.cache
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\RdlCompile.compiled
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.exe.manifest
+G:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker - Αντιγραφή (2)\GrantexPacker\obj\Debug\GrantexPacker.application
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form10.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form11.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form12.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form8.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form9.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form13.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form14.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form9_2.resources
+C:\Users\ITDpt\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.Form9_VALEO.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\GrantexPacker.exe.config
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.vbprojResolveAssemblyReference.cache
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\distribute.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\errormsgbox.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form1.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form10.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form11.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form12.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form13.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form14.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form15.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form16.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form17.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form18.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form2.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form3.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form4.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form6.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form7.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form8.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form9.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form9_2.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form9_FERODO.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form9_VALEO.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Resources.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\notification.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\report_issue.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\pallettemplate.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.vbproj.GenerateResource.Cache
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\RdlCompile.cache
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\RdlCompile.compiled
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.xml
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\GrantexPacker.exe.manifest
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\GrantexPacker.application
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\GrantexPacker.exe
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\GrantexPacker.pdb
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\Debug\GrantexPacker.xml
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.exe.manifest
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.application
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.exe
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\GrantexPacker.pdb
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\BLORDER.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\blorderrivets.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\blorder_apothiki.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\bporder.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\bporder_apothiki.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\CalendarSelector.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\datafrommantisfrm.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\document.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form7_2.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\Form7_VALEO.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\itemcomments.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\mantiserror.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\packingdetails.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\production.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\ProductionItemOrderQuickView.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\ProductionItemQuickReport.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\ProductionSearchForm.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\recipientchange.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\reldocs.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\smallpallet.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\SPORDER.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\toomanypallets.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\obj\Debug\whattoprint.resources
+g:\Documents\Dropbox\GRANTEX\Visual Studio 2015\Projects\GrantexPacker\GrantexPacker\bin\x86\Debug\GrantexPacker.exe.config

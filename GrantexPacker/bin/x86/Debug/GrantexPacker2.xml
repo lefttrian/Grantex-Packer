@@ -1,0 +1,2382 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GrantexPacker2
+</name>
+</assembly>
+<members>
+<member name="T:My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:My.Resources.Resources._48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources._48_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources._6BTgqqGi8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.active_filters">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.add_1_pallet_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.add_many_pallets_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.addbox">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.addpacklist">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.addpacklist2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.alphabetical_sorting1600__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.alphabetical_sorting1600__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.arrow_236_xxl">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.barcode">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.BARCODESCANNER">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.BARCODESCANNER2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.calendar_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.calendar_5122">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.calendar_today_19x19">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.cancel_completed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.cancel_completed_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.cardboard_box_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.ChangePalletPosition_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.circle_icon_16061">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.closedlock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.comment_png_22707">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Comments_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Comments_icon__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.complete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.complete1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.completed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.completepallet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.completepallet1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.contents">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.contents_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.debug_bug_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.deletepacklist">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.deleteplnew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.down_arrow_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.downarrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.download_abstract">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.download_icon_280x280">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.download_icon_280x2801">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.download_server_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.download_server_icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.draft_packlist_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Dual_Ring_1s_200px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.editorder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.eed510b1cd333e3d5d1b3b65ee588615">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.empty__trash_icon_48284">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.excel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.exclamation_logo_icon_44036">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.expand">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.expand1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.eye">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.eye1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.eyes_icon_0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Facebook_1s_200px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.factory">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.ferodo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.ferodo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.G_red">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.G_red_SMALL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.gear_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.gear_small2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.gears__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.grantexbox">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.grantexbox1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:My.Resources.Resources.greenarrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.greendownarrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.greendownarrow_σμαλλ">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.hourglass">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:My.Resources.Resources.hourglass1">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_add_many_pallets_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_add_one_pallet_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_add_one_pallet_201">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_advance_21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_approval_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_approval_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_approval_pending_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_approval_pending_30__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_available_updates_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_available_updates_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_back_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_barcode_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_barcode_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_before_approval_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_below_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_below_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_below_801">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_binoculars_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_box_delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_calendar_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_calendar_search_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_calendar_search_25">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_calendar_search_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_calendar_today_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_calendar_today_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_cancel_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_cancel_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_cancel_301">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_cancel_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_cardboard_box_80__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_close_window_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_close_window_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_close_window_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_collapse_arrow_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_combine_semifinished">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_comments_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_customersettings_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_customersettings_401">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_customersettings_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_diversity_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_down_3_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_downloading_updates_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_empty_flag_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_error_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_exercise_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_expand_arrow_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_external_link_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_eye_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_factory_70">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_factory_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_factory_external_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_factory_external_161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_factory_external_162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_flag_filled_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_flag_filled_16__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_flag_filled_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_flag_filled_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_forward_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_home_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_info_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_input_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_inspection_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_inspection_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_key_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_list_view_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_list_view_30__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_list_view_30__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_list_view_30__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_list_view_301">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_list_view_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_list_view_80__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_list_view_80__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_list_view_80__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_lock_16__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_lock_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_lock_30__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_lock_pallet_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_microsoft_excel_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_microsoft_excel_19">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_microsoft_excel_22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_microsoft_excel_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_module_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_module_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_module_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_moveToOrder_27">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_moveToOrder_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_next_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_ok_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_ok_16__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_open_box_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_padlock_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_pallet_complete_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_pallet_delete_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_pallet_delete_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_pallet_next_stage_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_pallet_next_stage_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_pallet_transform_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_pallet_transform_201">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_plus_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_previous_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_print_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_print_161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_print_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_product_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_product_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_product_30__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_product_30__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_product_30__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_product_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_product_40__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_product_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_push_pin_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_redlight_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_refresh_27">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_refresh_29">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_refresh_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_remove_approval">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_remove_approval_21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_remove_approval_25">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_rotate_left_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_rotate_left_16__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_sand_timer_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_save_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_save_16__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_save_16__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_save_27">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_save_29">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_save_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_scroll_down_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_scroll_down_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_search_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_search_161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_search_property_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_search_property_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_services_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_settings_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_shutdown_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_shutdown_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_sigma_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_sort_down_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_sort_up_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_tags_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_tags_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_tags_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_tick_box_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_tick_box_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_undo_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_undo_161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_undo_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_undo_301">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_unlock_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_unlock_16__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_unlock_16__2_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_unlock_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_unlock_pallet_20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_user_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.icons8_user_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Image1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.importpallet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:My.Resources.Resources.information_icon_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.information_icon_51">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.issues">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.KEY">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.KEY_SMALL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.KEY_SMALL1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.labels">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.labels_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.labels_small1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.LcKrMAkEi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.locate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.locate2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.locate3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.lock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.more_filters">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.more_filters1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.more_filters2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.more_filters21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.multiplechoice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.NewWindow1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.notcompleted">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.openlock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.openlock1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.orangeclock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.packer2_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.packer2_small_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.packerfulllogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.packerfulllogo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.packericon_final">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.pallet_report">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.palletprint">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.pallets_to_plist_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.parcel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.PAUSE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.PLAY">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.print">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.print_labels">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.print_pallet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.print1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.PRINTPALLETLABEL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.promotion_icon_png_3406">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.recover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.RED_PLUS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.RED_PLUS_NOCIRCLE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.RED_PLUS_NOCIRCLE_SLIM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.red_x_mark_4_icon_free_red_x_mark_icons_5br1Kr_clipart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.refresh_abstract">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.refresh_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.REMOVEPALLET">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.restore">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Ripple_3_3s_200px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.rolling">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.rolling__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.rolling__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.savebutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.saved">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.saved1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.saved2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.selected_filter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.selection_delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.sfragida">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.sigma_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.stock_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.temp_codes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.timer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.undo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.undo_new_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.undo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.undo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.up_arrow_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.valeo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.warning_100_92">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.warning_icon_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.warning_icon_52">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Ανοίγματος">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.κλεισιματος">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:atlantisDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:atlantisDataSet.relordersDatatableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:atlantisDataSet.pkrprc_STATUSPIECHARTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:atlantisDataSet.STORETRADELINESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:atlantisDataSet.PKRVIW_USERTRANSACTIONSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:atlantisDataSet.STORETRADEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:atlantisDataSet.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:atlantisDataSet.relordersDatatableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:atlantisDataSet.pkrprc_STATUSPIECHARTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:atlantisDataSet.STORETRADELINESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:atlantisDataSet.PKRVIW_USERTRANSACTIONSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:atlantisDataSet.STORETRADERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:atlantisDataSet.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:atlantisDataSet.relordersDatatableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:atlantisDataSet.pkrprc_STATUSPIECHARTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:atlantisDataSet.STORETRADELINESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:atlantisDataSet.PKRVIW_USERTRANSACTIONSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:atlantisDataSet.STORETRADERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:atlantisDataSet.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:atlantisDataSetTableAdapters.relordersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:atlantisDataSetTableAdapters.pkrprc_STATUSPIECHARTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:atlantisDataSetTableAdapters.STORETRADELINESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:atlantisDataSetTableAdapters.PKRVIW_USERTRANSACTIONSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:atlantisDataSetTableAdapters.STORETRADETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:atlantisDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:atlantisDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(atlantisDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:atlantisDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(atlantisDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:atlantisDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(atlantisDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:atlantisDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:atlantisDataSetTableAdapters.TableAdapterManager.UpdateAll(atlantisDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:atlantisDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:atlantisDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:gTrackBar">
+ <summary>
+ Customizable TrackBar Control
+ </summary>
+ <remarks>v1.9.0</remarks>
+</member>
+<member name="T:MainReportDataSource">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MainReportDataSource.MainA0DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MainReportDataSource.MainB0DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MainReportDataSource.MainE0DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MainReportDataSource.MainA0Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MainReportDataSource.MainB0Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MainReportDataSource.MainE0Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MainReportDataSource.MainA0RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MainReportDataSource.MainB0RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MainReportDataSource.MainE0RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MainReportDataSourceTableAdapters.MainA0TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MainReportDataSourceTableAdapters.MainB0TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MainReportDataSourceTableAdapters.MainE0TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MainReportDataSourceTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:MainReportDataSourceTableAdapters.TableAdapterManager.UpdateUpdatedRows(MainReportDataSource,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:MainReportDataSourceTableAdapters.TableAdapterManager.UpdateInsertedRows(MainReportDataSource,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:MainReportDataSourceTableAdapters.TableAdapterManager.UpdateDeletedRows(MainReportDataSource,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:MainReportDataSourceTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:MainReportDataSourceTableAdapters.TableAdapterManager.UpdateAll(MainReportDataSource)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:MainReportDataSourceTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:MainReportDataSourceTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="M:PackerUserTransaction.WriteEntry(System.Int32,System.Int32,System.Int32)">
+ <summary>
+  πρόταση με αντικείμενο πχ χρήστης Α έκανε κάτι στο αντικείμενο Β
+ </summary>
+</member>
+<member name="M:PackerUserTransaction.WriteEntry(System.Int32,System.Int32)">
+ <summary>
+  'πρόταση χωρίς αντικείμενο πχ χρήστης Α έκανε κάτι
+ </summary>
+</member>
+<member name="M:PackerUserTransaction.WriteEntry(System.Int32,System.Int32,System.Int32,System.String,System.Double)">
+ <summary>
+ πρόταση με 1 αντικείμενο και ποσότητα πχ Χρήστης Α δημιούργησε ποσότητα Β είδους Γ με τιμή Δ
+ </summary>
+</member>
+<member name="M:PackerUserTransaction.WriteEntry(System.Int32,System.Int32,System.Double,System.Collections.Generic.List{System.String})">
+ <summary>
+ πρόταση χρήστης Α δημιούργησε λίστα Χ πραγμάτων
+ </summary>
+</member>
+<member name="M:PackerUserTransaction.WriteEntry(System.Int32,System.Int32,System.String)">
+ <summary>
+ πρόταση χρήστης Α συνδέθηκε στο μηχάνημα Χ
+ </summary>
+</member>
+<member name="M:PackerUserTransaction.ReturnItemCodes(System.Collections.Generic.List{System.Int32},System.String)">
+ <summary>
+ δέχεται λίστα ids και επιστρέφει λίστα κωδικών από έναν πίνακα
+ </summary>
+</member>
+<member name="M:PackerUserTransaction.ReturnItemCodes(System.Int32,System.String)">
+ <summary>
+ δέχεται id και επιστρέφει ΚΩΔΙΚΌ από έναν πίνακα
+ </summary>
+</member>
+<member name="M:PackerUserTransaction.ReturnDates(System.Collections.Generic.List{System.Int32},System.String)">
+ <summary>
+ δέχεται λίστα ids και επιστρέφει λίστα ημερομηνιών από έναν πίνακα
+ </summary>
+</member>
+<member name="M:PackerUserTransaction.ReturnOrderStatus(System.Int32)">
+ <summary>
+ δέχεται ftrid και επιστρέφει status
+ </summary>
+</member>
+<member name="M:PackerUserTransaction.ReturnUserDptID(System.String)">
+ <summary>
+ δέχεται code τμήματος και επιστρέφει id
+ </summary>
+</member>
+<member name="M:PalletManager.MantisLocations(System.Collections.Generic.Dictionary{System.String,System.String},System.Int32)">
+ <summary>
+ Checks if MANTIS WMS has the necessary locations available. If not, it creates them, up to a maximum of 99 locations
+ </summary>
+</member>
+<member name="M:PalletManager.Create(System.Int32,System.Int32,System.Int32,System.String,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Creates one or multiple pallets, returns their IDs
+ </summary>
+</member>
+<member name="M:PalletManager.Create_old(System.Int32,System.String,System.String,System.Int32,System.String,System.Int32,System.Int32)">
+ <summary>
+ Creates one palletheader ---- deprecated
+ </summary>
+</member>
+<member name="M:PalletManager.Promote(System.Collections.Generic.List{System.Int32})">
+ <summary>
+ Physically opens a pallet which was in draft mode
+ </summary>
+</member>
+<member name="M:PalletManager.Delete(System.Collections.Generic.List{System.Int32},System.Boolean)">
+ <summary>
+ Deletes pallet
+ </summary>
+</member>
+<member name="M:PalletManager.lock(System.Collections.Generic.List{System.Int32})">
+ <summary>
+ locks pallets
+ </summary>
+</member>
+<member name="M:PalletManager.unlock(System.Collections.Generic.List{System.Int32})">
+ <summary>
+ unlocks pallets
+ </summary>
+</member>
+<member name="M:PalletManager.ReturnOrderStatus(System.Int32)">
+ <summary>
+ Returns status of palletline related order
+ </summary>
+</member>
+<member name="M:PalletManager.PerformPrePLJobChecks(System.Int32,System.Int32,System.Int32,System.Boolean)">
+ <summary>
+ Performs various checks before a palletline job
+ </summary>
+</member>
+<member name="M:PalletManager.AddItem(System.Int32,System.Int32,System.Int32,System.Int32,System.Double,System.String,System.Int32,System.Int32,System.Boolean)">
+ <summary>
+ Adds palletline
+ </summary>
+</member>
+<member name="M:PalletManager.GenerateNewPalletCode(System.String,System.String)">
+ <summary>
+ Calculates the next pallet main code e.g. VAFR1901-001
+ </summary>
+</member>
+<member name="P:PalletManager.PalletDptCode">
+ <summary>
+ Returns the pallet's department serial code e.g. BP01 which is here only for legacy reasons, it has been deprecated
+ </summary>
+</member>
+<member name="P:PalletManager.PalletLocationID">
+ <summary>
+ Returns the pallet's WMS location ID
+ </summary>
+</member>
+<member name="P:PalletManager.PalletLocationCode">
+ <summary>
+ Returns the pallet's WMS location code
+ </summary>
+</member>
+<member name="M:PalletManager.Calculate_Code_Substrings(System.String,System.Int32)">
+ <summary>
+ Calculates the substrings of a new pallet, to be used in pallet code creation e.g. VARU1901 and VARU.0P.
+ </summary>
+</member>
+<member name="M:PalletManager.pcgenerator">
+ <summary>
+ Returns next available set of codes 
+ </summary>
+</member>
+<member name="M:PalletManager.MoveItems(System.Collections.Generic.List{System.Int32},System.Int32)">
+ <summary>
+ Moves all items of provided pallets to another pallet, then deletes the provided pallets. All pallets, source and destination alike, must exist. Only for DRAFT, SEMIFINISHED pallets.
+ </summary>
+</member>
+<member name="T:TESTFINALDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.Z_PACKER_PALLETREPORTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.DataTable2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.SC_QTY_MANTISAXDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.SC_QTY_MANTISAX_RETURNSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.Z_PACKER_VALEOPALLETDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.extramantisinfoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.extramantisinfo_returnsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.Z_PACKER_FULLREPORTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.BPORDERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.BLORDERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.SPORDERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.BPORDERapothDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.BLORDERapothDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.DataTable3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.MATERIALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.PKRTBL_PALLETTYPESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.PKRTBL_CUSTOMERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.Z_PACKER_PALLETREPORTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.DataTable2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.SC_QTY_MANTISAXRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.SC_QTY_MANTISAX_RETURNSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.Z_PACKER_VALEOPALLETRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.extramantisinfoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.extramantisinfo_returnsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.Z_PACKER_FULLREPORTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.BPORDERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.BLORDERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.SPORDERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.BPORDERapothRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.BLORDERapothRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.DataTable3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.MATERIALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.PKRTBL_PALLETTYPESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.PKRTBL_CUSTOMERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.Z_PACKER_PALLETREPORTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.DataTable2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.SC_QTY_MANTISAXRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.SC_QTY_MANTISAX_RETURNSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.Z_PACKER_VALEOPALLETRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.extramantisinfoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.extramantisinfo_returnsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.Z_PACKER_FULLREPORTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.BPORDERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.BLORDERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.SPORDERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.BPORDERapothRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.BLORDERapothRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.DataTable3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.MATERIALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.PKRTBL_PALLETTYPESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSet.PKRTBL_CUSTOMERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.Z_PACKER_PALLETREPORTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.DataTable1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.DataTable2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.SC_QTY_MANTISAXTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.SC_QTY_MANTISAX_RETURNSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.Z_PACKER_VALEOPALLETTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.extramantisinfoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.extramantisinfo_returnsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.Z_PACKER_FULLREPORTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.BPORDERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.BLORDERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.SPORDERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.BPORDERapothTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.BLORDERapothTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.DataTable3TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.MATERIALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.PKRTBL_PALLETTYPESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.PKRTBL_CUSTOMERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TESTFINALDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TESTFINALDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TESTFINALDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TESTFINALDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TESTFINALDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TESTFINALDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TESTFINALDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TESTFINALDataSetTableAdapters.TableAdapterManager.UpdateAll(TESTFINALDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TESTFINALDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

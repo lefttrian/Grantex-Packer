@@ -1,0 +1,1524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4E8CD0F2-A0E9-4772-AFCF-28B67E360E43}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>My.MyApplication</StartupObject>
+    <RootNamespace>
+    </RootNamespace>
+    <AssemblyName>GrantexPacker2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>\\data-server\common\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\2\Release\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>\\dc-server\common\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\2\Release\</UpdateUrl>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>38</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsUrl>\\data-server\common\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Prerequisites</BootstrapperComponentsUrl>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>GrantexPacker2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>GrantexPacker2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>22A50DD20A4193171A37429DE23E1F84A570A3DE</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>GrantexPacker_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>packer_icon_new.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>GrantexPacker2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>GrantexPacker2.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridView, Version=1.0.20707.16, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x86\Debug\AdvancedDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="BarcodeLib.Barcode.WinForms">
+      <HintPath>bin\Debug\BarcodeLib.Barcode.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="EnvDTE, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ExtCursors">
+      <HintPath>bin\Debug\ExtCursors.dll</HintPath>
+    </Reference>
+    <Reference Include="JacksonSoft.CustomTabControl">
+      <HintPath>..\..\GrantexPackerBETA\JacksonSoft.CustomTabControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="ReachFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+    <Import Include="Zuby.ADGV" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Additional.vb" />
+    <Compile Include="AddPalletDialogBox.Designer.vb">
+      <DependentUpon>AddPalletDialogBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddPalletDialogBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="atlantisDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>atlantisDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="atlantisDataSet.vb">
+      <DependentUpon>atlantisDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DomainUserLoginSelector.Designer.vb">
+      <DependentUpon>DomainUserLoginSelector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DomainUserLoginSelector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemPendingOrders.Designer.vb">
+      <DependentUpon>ItemPendingOrders.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ItemPendingOrders.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderApprovalSeal.Designer.vb">
+      <DependentUpon>OrderApprovalSeal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OrderApprovalSeal.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PrintBrakeLiningsOrder.Designer.vb">
+      <DependentUpon>PrintBrakeLiningsOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintBrakeLiningsOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintBrakeLiningsOrderRivets.Designer.vb">
+      <DependentUpon>PrintBrakeLiningsOrderRivets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintBrakeLiningsOrderRivets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintBrakeLiningsOrderWarehouse.Designer.vb">
+      <DependentUpon>PrintBrakeLiningsOrderWarehouse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintBrakeLiningsOrderWarehouse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintBrakePadsOrder.Designer.vb">
+      <DependentUpon>PrintBrakePadsOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintBrakePadsOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintBrakePadsOrderWarehouse.Designer.vb">
+      <DependentUpon>PrintBrakePadsOrderWarehouse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintBrakePadsOrderWarehouse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalendarColumn.vb" />
+    <Compile Include="CalendarSelector.Designer.vb">
+      <DependentUpon>CalendarSelector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CalendarSelector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer.Designer.vb">
+      <DependentUpon>Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="datafrommantisfrm.Designer.vb">
+      <DependentUpon>datafrommantisfrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="datafrommantisfrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatagridviewProgressColumn.vb" />
+    <Compile Include="DatagridviewStackedProgressColumn.vb" />
+    <Compile Include="DatagridviewStackedProgressColumnReportForm.Designer.vb">
+      <DependentUpon>DatagridviewStackedProgressColumnReportForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DatagridviewStackedProgressColumnReportForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatagridviewTabPage.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataTableExtensions.vb" />
+    <Compile Include="document.Designer.vb">
+      <DependentUpon>document.vb</DependentUpon>
+    </Compile>
+    <Compile Include="document.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DoubleBufferedTableLayoutPanel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DraftPLSearchOrdersOverflow.Designer.vb">
+      <DependentUpon>DraftPLSearchOrdersOverflow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DraftPLSearchOrdersOverflow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.vb">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gTrackBar.Designer.vb">
+      <DependentUpon>gTrackBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gTrackBar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="InformationPanelGenericDialog.Designer.vb">
+      <DependentUpon>InformationPanelGenericDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InformationPanelGenericDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformationPanelItem.Designer.vb">
+      <DependentUpon>InformationPanelItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InformationPanelItem.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ItemDistribution.Designer.vb">
+      <DependentUpon>ItemDistribution.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ItemDistribution.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainReportDataSource.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MainReportDataSource.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MainReportDataSource.vb">
+      <DependentUpon>MainReportDataSource.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PackerUserTransaction.vb" />
+    <Compile Include="PalletManager.vb" />
+    <Compile Include="PalletTypes.Designer.vb">
+      <DependentUpon>PalletTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PalletTypes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="errormsgbox.Designer.vb">
+      <DependentUpon>errormsgbox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="errormsgbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order.Designer.vb">
+      <DependentUpon>Order.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Order.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="productionWeekSum.Designer.vb">
+      <DependentUpon>productionWeekSum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="productionWeekSum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WMSLocationStock.Designer.vb">
+      <DependentUpon>WMSLocationStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMSLocationStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form13.Designer.vb">
+      <DependentUpon>Form13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form14.Designer.vb">
+      <DependentUpon>Form14.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PalletDetails.Designer.vb">
+      <DependentUpon>PalletDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PalletDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form16.Designer.vb">
+      <DependentUpon>Form16.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form16.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form17.Designer.vb">
+      <DependentUpon>Form17.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form17.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PalletTypesDefaults.Designer.vb">
+      <DependentUpon>PalletTypesDefaults.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PalletTypesDefaults.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PalletTypesDefaultsAdditem.Designer.vb">
+      <DependentUpon>PalletTypesDefaultsAdditem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PalletTypesDefaultsAdditem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PalletTypesDefaultsItem.Designer.vb">
+      <DependentUpon>PalletTypesDefaultsItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PalletTypesDefaultsItem.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PopUpNotification.Designer.vb">
+      <DependentUpon>PopUpNotification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PopUpNotification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintPackingListWarehouse.Designer.vb">
+      <DependentUpon>PrintPackingListWarehouse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintPackingListWarehouse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcessingButton.Designer.vb">
+      <DependentUpon>ProcessingButton.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessingButton.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ProductionCombineSemifinishedPallets.Designer.vb">
+      <DependentUpon>ProductionCombineSemifinishedPallets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProductionCombineSemifinishedPallets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomDGVSearchBox.Designer.vb">
+      <DependentUpon>CustomDGVSearchBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomDGVSearchBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SmallSearchBox.Designer.vb">
+      <DependentUpon>SmallSearchBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SmallSearchBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransactionUtils.vb" />
+    <Compile Include="UserSettings.Designer.vb">
+      <DependentUpon>UserSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintPalletReport.Designer.vb">
+      <DependentUpon>PrintPalletReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintPalletReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.vb">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemDetails.Designer.vb">
+      <DependentUpon>ItemDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ItemDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintPackingList.Designer.vb">
+      <DependentUpon>PrintPackingList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintPackingList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.vb">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintOpenLabels.Designer.vb">
+      <DependentUpon>PrintOpenLabels.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintOpenLabels.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintCloseLabels.Designer.vb">
+      <DependentUpon>PrintCloseLabels.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintCloseLabels.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9_FERODO.Designer.vb">
+      <DependentUpon>Form9_FERODO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form9_FERODO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9_VALEO.Designer.vb">
+      <DependentUpon>Form9_VALEO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form9_VALEO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoCreateCancelPanel.Designer.vb">
+      <DependentUpon>InfoCreateCancelPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoCreateCancelPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="itemcomments.Designer.vb">
+      <DependentUpon>itemcomments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="itemcomments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantiserror.Designer.vb">
+      <DependentUpon>mantiserror.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mantiserror.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NoPaddingButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NoPaddingCheckbox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="notification.Designer.vb">
+      <DependentUpon>notification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="notification.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="packingdetails.Designer.vb">
+      <DependentUpon>packingdetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="packingdetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackingList.Designer.vb">
+      <DependentUpon>PackingList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PackingList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PackingListCreate.Designer.vb">
+      <DependentUpon>PackingListCreate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PackingListCreate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="palletlistitem.vb" />
+    <Compile Include="production.Designer.vb">
+      <DependentUpon>production.vb</DependentUpon>
+    </Compile>
+    <Compile Include="production.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductionDailyPlanQuickPalletPlan.Designer.vb">
+      <DependentUpon>ProductionDailyPlanQuickPalletPlan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProductionDailyPlanQuickPalletPlan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductionItemOrderQuickView.Designer.vb">
+      <DependentUpon>ProductionItemOrderQuickView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProductionItemOrderQuickView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductionItemQuickReport.Designer.vb">
+      <DependentUpon>ProductionItemQuickReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProductionItemQuickReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductionSearchForm.Designer.vb">
+      <DependentUpon>ProductionSearchForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProductionSearchForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReadOnlyTextbox.vb" />
+    <Compile Include="recipientchange.Designer.vb">
+      <DependentUpon>recipientchange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="recipientchange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reldocs.Designer.vb">
+      <DependentUpon>reldocs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reldocs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_issue.Designer.vb">
+      <DependentUpon>report_issue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_issue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <Compile Include="settingsitem.vb" />
+    <Compile Include="settings_exchange.vb" />
+    <Compile Include="smallpallet.Designer.vb">
+      <DependentUpon>smallpallet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="smallpallet.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SPORDER.Designer.vb">
+      <DependentUpon>SPORDER.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPORDER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TESTFINALDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TESTFINALDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TESTFINALDataSet.vb">
+      <DependentUpon>TESTFINALDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="toomanypallets.Designer.vb">
+      <DependentUpon>toomanypallets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="toomanypallets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.vb">
+      <DependentUpon>UserControl1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="InformationPanel.Designer.vb">
+      <DependentUpon>InformationPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InformationPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsertTransactions.Designer.vb">
+      <DependentUpon>UsertTransactions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsertTransactions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="whattoprint.Designer.vb">
+      <DependentUpon>whattoprint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="whattoprint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddPalletDialogBox.resx">
+      <DependentUpon>AddPalletDialogBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DomainUserLoginSelector.resx">
+      <DependentUpon>DomainUserLoginSelector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemPendingOrders.resx">
+      <DependentUpon>ItemPendingOrders.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderApprovalSeal.resx">
+      <DependentUpon>OrderApprovalSeal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintBrakeLiningsOrder.resx">
+      <DependentUpon>PrintBrakeLiningsOrder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintBrakeLiningsOrderRivets.resx">
+      <DependentUpon>PrintBrakeLiningsOrderRivets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintBrakeLiningsOrderWarehouse.resx">
+      <DependentUpon>PrintBrakeLiningsOrderWarehouse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintBrakePadsOrder.resx">
+      <DependentUpon>PrintBrakePadsOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintBrakePadsOrderWarehouse.resx">
+      <DependentUpon>PrintBrakePadsOrderWarehouse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalendarSelector.resx">
+      <DependentUpon>CalendarSelector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer.resx">
+      <DependentUpon>Customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="datafrommantisfrm.resx">
+      <DependentUpon>datafrommantisfrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatagridviewStackedProgressColumnReportForm.resx">
+      <DependentUpon>DatagridviewStackedProgressColumnReportForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="document.resx">
+      <DependentUpon>document.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DraftPLSearchOrdersOverflow.resx">
+      <DependentUpon>DraftPLSearchOrdersOverflow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gTrackBar.resx">
+      <DependentUpon>gTrackBar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformationPanel.resx">
+      <DependentUpon>InformationPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformationPanelGenericDialog.resx">
+      <DependentUpon>InformationPanelGenericDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformationPanelItem.resx">
+      <DependentUpon>InformationPanelItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomDGVSearchBox.resx">
+      <DependentUpon>CustomDGVSearchBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemDistribution.resx">
+      <DependentUpon>ItemDistribution.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUpNotification.resx">
+      <DependentUpon>PopUpNotification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintPackingListWarehouse.resx">
+      <DependentUpon>PrintPackingListWarehouse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productionWeekSum.resx">
+      <DependentUpon>productionWeekSum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\BrakeLiningsOrder.rdlc" />
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\BrakeLiningsOrderRivets.rdlc" />
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\BrakeLiningsOrderWarehouse.rdlc" />
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\BrakePadsOrder.rdlc" />
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\BrakePadsOrderWarehouse.rdlc" />
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\CloseLabels.rdlc" />
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainE2.rdlc">
+      <Link>MainE2.rdlc</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainE1.rdlc">
+      <Link>MainE1.rdlc</Link>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainE0.rdlc">
+      <Link>MainE0.rdlc</Link>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainC2.rdlc">
+      <Link>MainC2.rdlc</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainC1.rdlc">
+      <Link>MainC1.rdlc</Link>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainC0.rdlc">
+      <Link>MainC0.rdlc</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainB1.rdlc">
+      <Link>MainB1.rdlc</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainB0.rdlc">
+      <Link>MainB0.rdlc</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainD0.rdlc">
+      <Link>MainD0.rdlc</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainA4.rdlc">
+      <Link>MainA4.rdlc</Link>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainA3.rdlc">
+      <Link>MainA3.rdlc</Link>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainA2.rdlc">
+      <Link>MainA2.rdlc</Link>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainA1.rdlc">
+      <Link>MainA1.rdlc</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainA0.rdlc">
+      <Link>MainA0.rdlc</Link>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainReportSubBarChart.rdlc">
+      <Link>MainReportSubBarChart.rdlc</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PalletTypes.resx">
+      <DependentUpon>PalletTypes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="errormsgbox.resx">
+      <DependentUpon>errormsgbox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order.resx">
+      <DependentUpon>Order.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMSLocationStock.resx">
+      <DependentUpon>WMSLocationStock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form13.resx">
+      <DependentUpon>Form13.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form14.resx">
+      <DependentUpon>Form14.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PalletDetails.resx">
+      <DependentUpon>PalletDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form16.resx">
+      <DependentUpon>Form16.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form17.resx">
+      <DependentUpon>Form17.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PalletTypesDefaults.resx">
+      <DependentUpon>PalletTypesDefaults.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PalletTypesDefaultsAdditem.resx">
+      <DependentUpon>PalletTypesDefaultsAdditem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PalletTypesDefaultsItem.resx">
+      <DependentUpon>PalletTypesDefaultsItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\DatagridviewStackedProgressColumnReport.rdlc">
+      <Link>DatagridviewStackedProgressColumnReport.rdlc</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcessingButton.resx">
+      <DependentUpon>ProcessingButton.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductionCombineSemifinishedPallets.resx">
+      <DependentUpon>ProductionCombineSemifinishedPallets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report2 - VALEO.rdlc" />
+    <EmbeddedResource Include="SmallSearchBox.resx">
+      <DependentUpon>SmallSearchBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test.rdlc" />
+    <EmbeddedResource Include="UserSettings.resx">
+      <DependentUpon>UserSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintPalletReport.resx">
+      <DependentUpon>PrintPalletReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemDetails.resx">
+      <DependentUpon>ItemDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintPackingList.resx">
+      <DependentUpon>PrintPackingList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintOpenLabels.resx">
+      <DependentUpon>PrintOpenLabels.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintCloseLabels.resx">
+      <DependentUpon>PrintCloseLabels.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9_FERODO.resx">
+      <DependentUpon>Form9_FERODO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9_VALEO.resx">
+      <DependentUpon>Form9_VALEO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoCreateCancelPanel.resx">
+      <DependentUpon>InfoCreateCancelPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="itemcomments.resx">
+      <DependentUpon>itemcomments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantiserror.resx">
+      <DependentUpon>mantiserror.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="notification.resx">
+      <DependentUpon>notification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="packingdetails.resx">
+      <DependentUpon>packingdetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackingList.resx">
+      <DependentUpon>PackingList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PackingListCreate.resx">
+      <DependentUpon>PackingListCreate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="production.resx">
+      <DependentUpon>production.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductionDailyPlanQuickPalletPlan.resx">
+      <DependentUpon>ProductionDailyPlanQuickPalletPlan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductionItemOrderQuickView.resx">
+      <DependentUpon>ProductionItemOrderQuickView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductionItemQuickReport.resx">
+      <DependentUpon>ProductionItemQuickReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductionSearchForm.resx">
+      <DependentUpon>ProductionSearchForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="recipientchange.resx">
+      <DependentUpon>recipientchange.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reldocs.resx">
+      <DependentUpon>reldocs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3_FERODO.rdlc" />
+    <EmbeddedResource Include="Report3_VALEO.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="blorder_OLD.rdlc" />
+    <EmbeddedResource Include="report_issue.resx">
+      <DependentUpon>report_issue.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="smallpallet.resx">
+      <DependentUpon>smallpallet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPORDER.resx">
+      <DependentUpon>SPORDER.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="toomanypallets.resx">
+      <DependentUpon>toomanypallets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsertTransactions.resx">
+      <DependentUpon>UsertTransactions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\MainReport.rdlc" />
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\OpenLabels.rdlc" />
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\PalletReport.rdlc" />
+    <EmbeddedResource Include="V:\ΤΡΙΑΝΤΑΦΥΛΛΟΥ ΛΕΥΤΕΡΗΣ\Grantex Packer\Reports\SparePartsOrder.rdlc" />
+    <EmbeddedResource Include="whattoprint.resx">
+      <DependentUpon>whattoprint.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="atlantisDataSet.xsc">
+      <DependentUpon>atlantisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="atlantisDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>atlantisDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="atlantisDataSet.xss">
+      <DependentUpon>atlantisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ClassDiagram2.cd" />
+    <None Include="GrantexPacker_TemporaryKey.pfx" />
+    <None Include="MainReportDataSource.xsc">
+      <DependentUpon>MainReportDataSource.xsd</DependentUpon>
+    </None>
+    <None Include="MainReportDataSource.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MainReportDataSource.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MainReportDataSource.xss">
+      <DependentUpon>MainReportDataSource.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\BarcodeLib.Barcode.WinForms.dll.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\de\Microsoft.SqlServer.Types.resources.dll.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\es\Microsoft.SqlServer.Types.resources.dll.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\fr\Microsoft.SqlServer.Types.resources.dll.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\GrantexPacker.application" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\GrantexPacker.exe.config.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\GrantexPacker.exe.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\GrantexPacker.exe.manifest" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\it\Microsoft.SqlServer.Types.resources.dll.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\ja\Microsoft.SqlServer.Types.resources.dll.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\ko\Microsoft.SqlServer.Types.resources.dll.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\Microsoft.ReportViewer.WinForms.dll.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\Microsoft.SqlServer.Types.dll.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\pt\Microsoft.SqlServer.Types.resources.dll.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\ru\Microsoft.SqlServer.Types.resources.dll.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\zh-Hans\Microsoft.SqlServer.Types.resources.dll.deploy" />
+    <None Include="publish\Application Files\GrantexPacker_1_0_0_0\zh-Hant\Microsoft.SqlServer.Types.resources.dll.deploy" />
+    <None Include="publish\GrantexPacker.application" />
+    <None Include="Resources\hourglass.ani" />
+    <None Include="TESTFINALDataSet.xsc">
+      <DependentUpon>TESTFINALDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TESTFINALDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TESTFINALDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TESTFINALDataSet.xss">
+      <DependentUpon>TESTFINALDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_icon-280x280.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addbox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red-x-mark-4-icon-free-red-x-mark-icons-5br1Kr-clipart.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information-icon-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cardboard-box-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empty--trash-icon-48284.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\completed.png" />
+    <EmbeddedResource Include="Resources\notcompleted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saved.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\savebutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\completepallet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print-pallet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\palletprint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PAUSE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PLAY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closedlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\issues.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contents.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parcel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\complete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PRINTPALLETLABEL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,KB2468871">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29 and Update for .NET Framework 4 %28KB2468871%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.ReportViewer.12.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Report Viewer 2014 Runtime</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.SQLSysClrTypes.12.0.x64">
+      <Visible>False</Visible>
+      <ProductName>Microsoft® System CLR Types for SQL Server® 2014 %28x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.SQLSysClrTypes.12.0.x86">
+      <Visible>False</Visible>
+      <ProductName>Microsoft® System CLR Types for SQL Server® 2014 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon %282%29.ico" />
+    <Content Include="favicon %283%29.ico" />
+    <Content Include="packericon.ico" />
+    <Content Include="packericon_final.ico" />
+    <Content Include="packer_icon_new.ico" />
+    <Content Include="publish\setup.exe" />
+    <None Include="Resources\icons8-exercise-30.png" />
+    <None Include="Resources\icons8-sand-timer-30.png" />
+    <None Include="Resources\icons8-cancel-80.png" />
+    <None Include="Resources\icons8-sigma-30.png" />
+    <None Include="Resources\icons8-user-16.png" />
+    <None Include="Resources\Facebook-1s-200px.gif" />
+    <None Include="Resources\Dual Ring-1s-200px.gif" />
+    <None Include="Resources\Ripple-3.3s-200px.gif" />
+    <None Include="Resources\icons8-empty-flag-16.png" />
+    <None Include="Resources\icons8-flag-filled-16 %281%29.png" />
+    <None Include="Resources\icons8-flag-filled-20.png" />
+    <None Include="Resources\G_red_SMALL.png" />
+    <None Include="Resources\icons8-next-16.png" />
+    <None Include="Resources\icons8-previous-16.png" />
+    <None Include="Resources\icons8-calendar-today_16.png" />
+    <None Include="Resources\icons8-moveToOrder-30.png" />
+    <None Include="Resources\icons8-moveToOrder-27.png" />
+    <None Include="Resources\icons8-search-16.png" />
+    <None Include="Resources\icons8-save-29.png" />
+    <None Include="Resources\icons8-save-27.png" />
+    <None Include="Resources\icons8-refresh-27.png" />
+    <None Include="Resources\icons8-refresh-29.png" />
+    <None Include="Resources\icons8-calendar_today-30.png" />
+    <None Include="Resources\icons8-refresh-30.png" />
+    <None Include="Resources\icons8-save-30.png" />
+    <None Include="Resources\icons8-calendar_search-30.png" />
+    <None Include="Resources\icons8-calendar_search-25.png" />
+    <None Include="Resources\icons8-calendar_search-20.png" />
+    <None Include="Resources\icons8-calendar-20.png" />
+    <None Include="Resources\icons8-diversity-20.png" />
+    <None Include="Resources\icons8-combine-semifinished.png" />
+    <None Include="Resources\icons8-flag-filled-30.png" />
+    <None Include="Resources\icons8-flag-filled-16.png" />
+    <None Include="Resources\icons8-advance-21.png" />
+    <None Include="Resources\icons8-approval-21.png" />
+    <None Include="Resources\icons8-approval-25.png" />
+    <None Include="Resources\icons8-microsoft-excel-19.png" />
+    <None Include="Resources\icons8-microsoft-excel-22.png" />
+    <None Include="Resources\icons8-microsoft-excel-16.png" />
+    <None Include="Resources\icons8-microsoft-excel-30.png" />
+    <None Include="Resources\icons8-delete-30.png" />
+    <None Include="Resources\icons8-close-window-30.png" />
+    <None Include="Resources\icons8-pallet-next-stage-30.png" />
+    <None Include="Resources\icons8-redlight-16.png" />
+    <None Include="Resources\icons8-info-30.png" />
+    <None Include="Resources\packer2_small logo.png" />
+    <None Include="Resources\icons8-expand-arrow-16.png" />
+    <None Include="Resources\icons8-collapse-arrow-16.png" />
+    <None Include="Resources\packer2 logo.png" />
+    <None Include="Resources\icons8-shutdown-16.png" />
+    <None Include="Resources\icons8-product-16.png" />
+    <None Include="Resources\icons8-home-16.png" />
+    <None Include="Resources\icons8-settings-16.png" />
+    <None Include="Resources\icons8-factory-external-161.png" />
+    <None Include="Resources\icons8-factory-external-16.png" />
+    <None Include="Resources\icons8-external-link-16.png" />
+    <None Include="Resources\icons8_lock_pallet-20.png" />
+    <None Include="Resources\icons8_unlock_pallet-20.png" />
+    <None Include="Resources\icons8-pallet-transform-201.png" />
+    <None Include="Resources\icons8-pallet-transform-20.png" />
+    <None Include="Resources\icons8-pallet-next-stage-20.png" />
+    <None Include="Resources\icons8-pallet-complete-20.png" />
+    <None Include="Resources\icons8-pallet-delete-20.png" />
+    <None Include="Resources\icons8-pallet-delete-16.png" />
+    <None Include="Resources\icons8-box-delete.png" />
+    <None Include="Resources\icons8-plus-16.png" />
+    <None Include="Resources\icons8-save-16 %281%291.png" />
+    <None Include="Resources\icons8-product-40 %281%29.png" />
+    <None Include="Resources\icons8-product-30 %284%29.png" />
+    <None Include="Resources\icons8-customersettings-401.png" />
+    <None Include="Resources\icons8-customersettings-50.png" />
+    <None Include="Resources\icons8-customersettings-40.png" />
+    <None Include="Resources\icons8-user-40.png" />
+    <None Include="Resources\icons8-services-40.png" />
+    <None Include="Resources\icons8-lock-30 %281%29.png" />
+    <None Include="Resources\icons8-remove-approval.png" />
+    <None Include="Resources\icons8-approval-pending-30 %282%29.png" />
+    <None Include="Resources\icons8-approval-pending-30.png" />
+    <None Include="Resources\icons8-before-approval-30.png" />
+    <None Include="Resources\icons8-cancel-16.png" />
+    <None Include="Resources\icons8-lock-16 %281%29.png" />
+    <None Include="Resources\icons8-unlock-16 %282%291.png" />
+    <None Include="Resources\icons8-unlock-30.png" />
+    <None Include="Resources\icons8-unlock-16 %282%29.png" />
+    <None Include="Resources\icons8-padlock-16.png" />
+    <None Include="Resources\icons8-unlock-16.png" />
+    <None Include="Resources\icons8-approval-16.png" />
+    <None Include="Resources\icons8-binoculars-16.png" />
+    <None Include="Resources\icons8-eye-16.png" />
+    <None Include="Resources\icons8-comments-16.png" />
+    <None Include="Resources\icons8-push-pin-16.png" />
+    <None Include="Resources\icons8-available-updates-16.png" />
+    <None Include="Resources\icons8-available-updates-30.png" />
+    <None Include="Resources\icons8-open-box-30.png" />
+    <None Include="Resources\icons8-undo-301.png" />
+    <None Include="Resources\icons8-print-30.png" />
+    <None Include="Resources\icons8-tags-30.png" />
+    <None Include="Resources\icons8-tags-16.png" />
+    <None Include="Resources\icons8-lock-30.png" />
+    <None Include="Resources\icons8-approval-30.png" />
+    <None Include="Resources\icons8-inspection-30.png" />
+    <None Include="Resources\icons8-inspection-40.png" />
+    <None Include="Resources\icons8-cancel-301.png" />
+    <None Include="Resources\icons8-cancel-30.png" />
+    <None Include="Resources\icons8-tick-box-30.png" />
+    <None Include="Resources\icons8-tick-box-16.png" />
+    <None Include="Resources\icons8-key-30.png" />
+    <None Include="Resources\icons8-module-16.png" />
+    <None Include="Resources\icons8-close-window-80.png" />
+    <None Include="Resources\icons8-close-window-16.png" />
+    <None Include="Resources\icons8-ok-16 %281%29.png" />
+    <None Include="Resources\icons8-save-16 %281%29.png" />
+    <None Include="Resources\icons8-save-16.png" />
+    <None Include="Resources\icons8-search-property-40.png" />
+    <None Include="Resources\icons8-search-property-80.png" />
+    <None Include="Resources\icons8-down-3-16.png" />
+    <None Include="Resources\icons8-undo-161.png" />
+    <None Include="Resources\icons8-scroll-down-80.png" />
+    <None Include="Resources\icons8-scroll-down-40.png" />
+    <None Include="Resources\icons8-below-801.png" />
+    <None Include="Resources\icons8-undo-30.png" />
+    <None Include="Resources\icons8-print-161.png" />
+    <None Include="Resources\icons8-undo-16.png" />
+    <None Include="Resources\icons8-ok-16.png" />
+    <None Include="Resources\icons8-add-many-pallets-20.png" />
+    <None Include="Resources\icons8-add-one-pallet-201.png" />
+    <None Include="Resources\icons8-print-16.png" />
+    <None Include="Resources\icons8-rotate-left-16 %281%29.png" />
+    <None Include="Resources\icons8-rotate-left-16.png" />
+    <None Include="Resources\icons8-back-16.png" />
+    <None Include="Resources\icons8-forward-16.png" />
+    <None Include="Resources\icons8-below-80.png" />
+    <None Include="Resources\icons8-below-30.png" />
+    <None Include="Resources\icons8-list-view-30 %283%29.png" />
+    <None Include="Resources\icons8-product-30 %283%29.png" />
+    <None Include="Resources\icons8-list-view-301.png" />
+    <None Include="Resources\icons8-list-view-30 %282%29.png" />
+    <None Include="Resources\icons8-list-view-30 %281%29.png" />
+    <None Include="Resources\icons8-list-view-80 %281%291.png" />
+    <None Include="Resources\icons8-list-view-30.png" />
+    <None Include="Resources\icons8-list-view-80 %282%29.png" />
+    <None Include="Resources\icons8-list-view-80.png" />
+    <None Include="Resources\icons8-list-view-80 %281%29.png" />
+    <None Include="Resources\icons8-sort-down-30.png" />
+    <None Include="Resources\icons8-sort-up-30.png" />
+    <None Include="Resources\icons8-error-30.png" />
+    <None Include="Resources\icons8-input-30.png" />
+    <None Include="Resources\icons8-product-30 %281%29.png" />
+    <None Include="Resources\icons8-product-30.png" />
+    <None Include="Resources\icons8-module-30.png" />
+    <None Include="Resources\icons8-module-80.png" />
+    <None Include="Resources\icons8-shutdown-40.png" />
+    <None Include="Resources\icons8-product-40.png" />
+    <None Include="Resources\icons8-tags-40.png" />
+    <None Include="Resources\icons8-barcode-50.png" />
+    <None Include="Resources\icons8-factory-70.png" />
+    <None Include="Resources\icons8-product-80.png" />
+    <None Include="Resources\icons8-cardboard-box-80 %281%29.png" />
+    <None Include="Resources\icons8-barcode-80.png" />
+    <None Include="Resources\icons8-factory-80.png" />
+    <None Include="Resources\icons8-downloading-updates-80.png" />
+    <None Include="Resources\add many pallets small.png" />
+    <None Include="Resources\add 1 pallet small.png" />
+    <None Include="Resources\pallets_to_plist_small.png" />
+    <None Include="Resources\orangeclock.png" />
+    <None Include="Resources\draft_packlist_small.png" />
+    <None Include="Resources\ChangePalletPosition_small.png" />
+    <None Include="Resources\print_labels.png" />
+    <None Include="Resources\RED_PLUS_NOCIRCLE_SLIM.png" />
+    <None Include="Resources\RED_PLUS_NOCIRCLE.png" />
+    <None Include="Resources\RED_PLUS.png" />
+    <None Include="Resources\undo_new_small.png" />
+    <None Include="Resources\excel.png" />
+    <None Include="Resources\calendar_today_19x19.png" />
+    <None Include="Resources\refresh_small.png" />
+    <None Include="Resources\greendownarrow_σμαλλ.png" />
+    <None Include="Resources\stock_small.png" />
+    <None Include="Resources\refresh_abstract.png" />
+    <None Include="Resources\download_abstract.png" />
+    <None Include="Resources\calendar-5122.png" />
+    <None Include="Resources\calendar-512.png" />
+    <None Include="Resources\factory.png" />
+    <None Include="Resources\G_red.png" />
+    <None Include="Resources\sigma-512.png" />
+    <None Include="Resources\48 2.png" />
+    <None Include="Resources\48.png" />
+    <None Include="Resources\eed510b1cd333e3d5d1b3b65ee588615.png" />
+    <None Include="Resources\6BTgqqGi8.png" />
+    <None Include="Resources\warning_100_92.png" />
+    <None Include="Resources\warning-icon-52.png" />
+    <None Include="Resources\warning-icon-5.png" />
+    <None Include="Resources\valeo.JPG" />
+    <None Include="Resources\ferodo1.JPG" />
+    <None Include="Resources\ferodo.JPG" />
+    <None Include="Resources\κλεισιματος.jpg" />
+    <None Include="Resources\Ανοίγματος.JPG" />
+    <None Include="Resources\alphabetical_sorting1600 %282%29.png" />
+    <None Include="Resources\alphabetical_sorting1600 %281%29.png" />
+    <None Include="Resources\circle-icon-16061.png" />
+    <None Include="Resources\greendownarrow.png" />
+    <None Include="Resources\greenarrow.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\download-server-icon.png" />
+    <None Include="Resources\gears %283%29.gif" />
+    <None Include="Resources\saved2.png" />
+    <None Include="Resources\down-arrow-1.png" />
+    <None Include="Resources\comment-png-22707.png" />
+    <None Include="Resources\Comments-icon %281%29.png" />
+    <None Include="Resources\Comments-icon.png" />
+    <None Include="Resources\selection_delete.png" />
+    <None Include="Resources\exclamation-logo-icon-44036.png" />
+    <None Include="Resources\promotion-icon-png-3406.png" />
+    <None Include="Resources\debug-bug-icon.png" />
+    <None Include="Resources\LcKrMAkEi.jpeg" />
+    <None Include="Resources\importpallet.ico" />
+    <None Include="Resources\grantexbox.ico" />
+    <None Include="Resources\grantexbox.png" />
+    <None Include="Resources\rolling %282%29.gif" />
+    <None Include="Resources\rolling %281%29.gif" />
+    <None Include="Resources\rolling.gif" />
+    <None Include="Resources\contents_small.png" />
+    <None Include="Resources\pallet_report.png" />
+    <None Include="Resources\labels_small.png" />
+    <None Include="Resources\arrow-236-xxl.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\cancel_completed_small.png" />
+    <None Include="Resources\cancel_completed.png" />
+    <None Include="Resources\REMOVEPALLET.png" />
+    <None Include="Resources\sfragida.png" />
+    <None Include="Resources\BARCODESCANNER2.png" />
+    <None Include="Resources\BARCODESCANNER.png" />
+    <None Include="Resources\addpacklist2.png" />
+    <None Include="Resources\KEY_SMALL.png" />
+    <None Include="Resources\KEY.png" />
+    <None Include="Resources\labels.png" />
+    <None Include="Resources\active_filters.png" />
+    <None Include="Resources\more_filters2.png" />
+    <None Include="Resources\more_filters.png" />
+    <None Include="Resources\restore.png" />
+    <None Include="Resources\expand.png" />
+    <None Include="Resources\editorder.png" />
+    <None Include="Resources\orderedit.bmp" />
+    <None Include="Resources\NewWindow1.png" />
+    <None Include="Resources\undo2.png" />
+    <None Include="Resources\gear_small2.png" />
+    <None Include="Resources\gear_small.png" />
+    <None Include="Resources\eyes-icon-0.png" />
+    <None Include="Resources\eye.png" />
+    <None Include="Resources\recover.png" />
+    <None Include="Resources\multiplechoice.png" />
+    <None Include="Resources\barcode.PNG" />
+    <None Include="Resources\downarrow.png" />
+    <None Include="Resources\up-arrow-1.png" />
+    <None Include="Resources\locate3.png" />
+    <None Include="Resources\locate2.png" />
+    <None Include="Resources\locate.png" />
+    <None Include="Resources\temp_codes.png" />
+    <None Include="Resources\selected_filter.png" />
+    <None Include="Resources\deleteplnew.png" />
+    <None Include="Resources\deletepacklist.png" />
+    <None Include="Resources\addpacklist.png" />
+    <None Include="Resources\packerfulllogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="GrantexPacker.pdb">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="GrantexPacker.xml">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.Common">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.DataVisualization">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.ProcessingObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Reports\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.WinFx.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>if exist "$(TargetPath).locked" del "$(TargetPath).locked"
+
+if exist "$(TargetPath)" if not exist "$(TargetPath).locked" move "$(TargetPath)" "$(TargetPath).locked"</PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

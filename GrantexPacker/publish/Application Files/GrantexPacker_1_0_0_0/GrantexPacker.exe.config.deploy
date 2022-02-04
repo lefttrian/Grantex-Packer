@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="GrantexPacker.My.MySettings.TESTConnectionString"
+            connectionString="Data Source=lenovo\atlantis;Initial Catalog=test;User ID=sa;password="
+            providerName="System.Data.SqlClient" />
+        <add name="GrantexPacker.My.MySettings.TESTConnectionString1"
+            connectionString="Data Source=lenovo\atlantis;Initial Catalog=test;User ID=sa;password="
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+</configuration>
+<!--'Dim connString As String = "Server=db-server;Database=test;User Id=reader;Password=1234;Application Name=Packer"
+    'Dim updString As String = "Server=db-server;Database=test;User Id=sa;Password=;Application Name=Packer"
+    Dim connString As String = "Server=it-dpt-nb\lefteris;Database=testsept;User Id=super;Password=1234;Application Name=Packer"
+    Dim updString As String = "Server=it-dpt-nb\lefteris;Database=testsept;User Id=super;Password=1234;Application Name=Packer"
+    Data Source=lenovo\atlantis;Initial Catalog=test;User ID=sa;password=-->
